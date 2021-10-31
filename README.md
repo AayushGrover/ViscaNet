@@ -60,5 +60,8 @@ The following steps can be used for any experiment where data is split into mult
     - The paths are hard-coded inside the **os_test.py** and therefore, `--data_path` can be anything.
     - If you need attention images, use `--viz_dir` and give the path to the location where you want to store those images.
 
+----------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
+
 **NOTE** - Kindly fix the paths in case it throws an error or feel free to contact [me](https://github.com/AayushGrover) or raise an issue.
 
