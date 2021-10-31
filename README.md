@@ -1,6 +1,6 @@
 # ViscaNet
 
-This is the official implementation of Virtual Screening Assistant Network (ViscaNet). The motivation of various modules in this repository is from [Analyzing Learned Molecular Representations for Property Prediction](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00237) and [A self‐attention based message passing neural network for predicting molecular lipophilicity and aqueous solubility](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-0414-z).
+This is the official implementation of Virtual Screening Assistant Network (ViscaNet). The motivation of various modules in this repository is from [Analyzing Learned Molecular Representations for Property Prediction](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00237) and [A self‐attention based message passing neural network for predicting molecular lipophilicity and aqueous solubility](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-0414-z). The basecode was obtained from [chemprop](https://github.com/chemprop/chemprop).
 
 ## Installation
 
